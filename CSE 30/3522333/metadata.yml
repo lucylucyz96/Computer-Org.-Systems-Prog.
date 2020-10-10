@@ -1,0 +1,12 @@
+---
+:id: 3522333
+:submitters:
+- :name: Ruyin Zhang
+  :email: ruz074@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2017-07-11 20:45:48.346570000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2017-07-11 13:45:48.346570000 Z
+:status: processed
+:score: 20.0

@@ -1,0 +1,14 @@
+---
+:id: 3566407
+:submitters:
+- :name: Ruyin Zhang
+  :email: ruz074@ucsd.edu
+- :name: Shafeen Shakil Pittal
+  :email: spittal@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2017-08-03 02:28:23.798792000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2017-08-02 19:28:23.798792000 Z
+:status: processed
+:score: 15.0
